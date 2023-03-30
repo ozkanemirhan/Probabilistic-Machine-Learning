@@ -1,4 +1,7 @@
 numpy
 scipy
 matplotlib
-ipykernel 
+ipykernel
+seaborn
+tensorflow
+tensorflow_probability
